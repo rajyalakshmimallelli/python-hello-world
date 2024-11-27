@@ -6,6 +6,7 @@ PORT_NUMBER = 80
 
 #This class will handles any incoming request from
 #the browser 
+#python hello world
 class myHandler(BaseHTTPRequestHandler):
 
   #Handler for the GET requests
